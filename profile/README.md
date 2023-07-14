@@ -6,4 +6,4 @@ You will find here the Living Enlightenment book, unabridged, 7th Edition, avail
 You will also find a "[quotes](https://github.com/livingenlightenment/quotes)" and "[small-stories](https://github.com/livingenlightenment/small-stories)" repositories which are handpicked content from the Living Enlightenment book.  
 The goal of this "project" is to create a database of content from this book and make it available in several languages.
 
-If you wish to contribute, send an email to roques.florent@gmail.com
+If you wish to contribute, send an email to sri.priyesha@gmail.com
