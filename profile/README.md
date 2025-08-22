@@ -1,4 +1,4 @@
-You will find here the Living Enlightenment book, unabridged, 7th Edition, available in:
+You will find here the Living Enlightenment book, Unabridged, 7th Edition, available in:
 - [Web format](https://github.com/livingenlightenment/livingenlightenment)
 - [PDF](https://livingenlightenment.github.io/livingenlightenment/Living%20Enlightenment%20-%20unabridged%20-%207th%20Edition.pdf)
 
